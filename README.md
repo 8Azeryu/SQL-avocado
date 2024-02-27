@@ -1,4 +1,4 @@
-*GitHub Repository: SQL**-octave-avocado
+**GitHub Repository: SQL**-octave-avocado
 
 **Description:** This repository contains a in depth SQL query analysis of avocado distribution. 
 
